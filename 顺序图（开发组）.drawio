@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-10T14:39:48.836Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="XrX-kxhREySwwetRP0wo" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-10T15:35:09.034Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="nfvH4FirKTekWXarsRrX" version="22.1.7" type="github">
   <diagram name="第 1 页" id="K3Sk5iGvBDbTyE4i1tNn">
     <mxGraphModel dx="786" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="160000" pageHeight="160000" math="0" shadow="0">
       <root>
@@ -44,7 +44,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RFupG9pCw3E_9kfrd0Ui-13" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
-          <mxGeometry x="210" y="600" width="20" height="410" as="geometry" />
+          <mxGeometry x="210" y="600" width="20" height="540" as="geometry" />
         </mxCell>
         <mxCell id="RFupG9pCw3E_9kfrd0Ui-18" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="RFupG9pCw3E_9kfrd0Ui-13">
           <mxGeometry x="5" y="50" width="10" height="80" as="geometry" />
@@ -55,8 +55,11 @@
         <mxCell id="RFupG9pCw3E_9kfrd0Ui-64" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="RFupG9pCw3E_9kfrd0Ui-13">
           <mxGeometry x="5" y="270" width="10" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-72" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="RFupG9pCw3E_9kfrd0Ui-13">
+          <mxGeometry x="5" y="380" width="10" height="80" as="geometry" />
+        </mxCell>
         <mxCell id="RFupG9pCw3E_9kfrd0Ui-14" value="首页界面" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="340" y="590" width="100" height="420" as="geometry" />
+          <mxGeometry x="340" y="590" width="100" height="560" as="geometry" />
         </mxCell>
         <mxCell id="RFupG9pCw3E_9kfrd0Ui-19" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="RFupG9pCw3E_9kfrd0Ui-14">
           <mxGeometry x="45" y="60" width="10" height="40" as="geometry" />
@@ -65,7 +68,7 @@
           <mxGeometry x="190" y="570" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RFupG9pCw3E_9kfrd0Ui-16" value="宿舍管理界面" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="520" y="590" width="100" height="430" as="geometry" />
+          <mxGeometry x="520" y="590" width="100" height="560" as="geometry" />
         </mxCell>
         <mxCell id="RFupG9pCw3E_9kfrd0Ui-23" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="RFupG9pCw3E_9kfrd0Ui-16">
           <mxGeometry x="45" y="60" width="10" height="100" as="geometry" />
@@ -75,6 +78,9 @@
         </mxCell>
         <mxCell id="RFupG9pCw3E_9kfrd0Ui-32" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="RFupG9pCw3E_9kfrd0Ui-16">
           <mxGeometry x="45" y="284" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-77" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="RFupG9pCw3E_9kfrd0Ui-16">
+          <mxGeometry x="45" y="390" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RFupG9pCw3E_9kfrd0Ui-20" value="1.查看宿舍信息" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-0.5625" y="30" relative="1" as="geometry">
@@ -90,23 +96,24 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RFupG9pCw3E_9kfrd0Ui-25" value="3.显示宿舍号、宿舍电费、水费余额" style="html=1;verticalAlign=bottom;endArrow=block;endSize=8;curved=0;rounded=0;endFill=1;" edge="1" parent="1">
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-25" value="3.显示宿舍号、宿舍电费、水费余额" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;curved=0;rounded=0;endFill=0;dashed=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="565.5" y="720" as="sourcePoint" />
             <mxPoint x="226" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RFupG9pCw3E_9kfrd0Ui-28" value="4.用电查询" style="endArrow=block;endFill=1;html=1;align=left;verticalAlign=top;rounded=0;" edge="1" parent="1">
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-28" value="4.用电/水查询" style="endArrow=block;endFill=1;html=1;align=left;verticalAlign=top;rounded=0;" edge="1" parent="1">
           <mxGeometry x="-0.3824" y="28" relative="1" as="geometry">
             <mxPoint x="225" y="798" as="sourcePoint" />
             <mxPoint x="565" y="798" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RFupG9pCw3E_9kfrd0Ui-29" value="5.显示用电记录" style="html=1;verticalAlign=bottom;endArrow=block;endSize=8;curved=0;rounded=0;endFill=1;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-29" value="5.显示用电/水记录" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;curved=0;rounded=0;endFill=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry x="0.0015" relative="1" as="geometry">
             <mxPoint x="563.75" y="832" as="sourcePoint" />
             <mxPoint x="224.25" y="832" as="targetPoint" />
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="RFupG9pCw3E_9kfrd0Ui-30" value="6.宿舍报修" style="endArrow=block;endFill=1;html=1;align=left;verticalAlign=top;rounded=0;" edge="1" parent="1">
@@ -116,7 +123,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RFupG9pCw3E_9kfrd0Ui-33" value="7.返回报修结果" style="html=1;verticalAlign=bottom;endArrow=block;endSize=8;curved=0;rounded=0;endFill=1;" edge="1" parent="1">
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-33" value="7.返回报修结果" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;curved=0;rounded=0;endFill=0;dashed=1;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="563.75" y="927" as="sourcePoint" />
             <mxPoint x="224.25" y="927" as="targetPoint" />
@@ -161,7 +168,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RFupG9pCw3E_9kfrd0Ui-46" value="4.返回审批结果" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;endFill=1;" edge="1" parent="1">
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-46" value="4.返回审批结果" style="html=1;verticalAlign=bottom;endArrow=open;curved=0;rounded=0;endFill=0;dashed=1;" edge="1" parent="1">
           <mxGeometry x="0.0028" relative="1" as="geometry">
             <mxPoint x="1155" y="822" as="sourcePoint" />
             <mxPoint x="785" y="821.75" as="targetPoint" />
@@ -210,11 +217,165 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="RFupG9pCw3E_9kfrd0Ui-48" value="6.返回具体信息" style="html=1;verticalAlign=bottom;endArrow=block;endSize=8;curved=0;rounded=0;endFill=1;" edge="1" parent="1">
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-48" value="6.返回具体信息" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;curved=0;rounded=0;endFill=0;dashed=1;" edge="1" parent="1">
           <mxGeometry x="0.0028" relative="1" as="geometry">
             <mxPoint x="965.5" y="969" as="sourcePoint" />
             <mxPoint x="786" y="969" as="targetPoint" />
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-65" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1232" width="20" height="468" as="geometry" />
+        </mxCell>
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-66" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="RFupG9pCw3E_9kfrd0Ui-65">
+          <mxGeometry x="5" y="50" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-67" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="RFupG9pCw3E_9kfrd0Ui-65">
+          <mxGeometry x="5" y="138" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-68" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="RFupG9pCw3E_9kfrd0Ui-65">
+          <mxGeometry x="5" y="238" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-92" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="RFupG9pCw3E_9kfrd0Ui-65">
+          <mxGeometry x="5" y="330" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-69" value="管理员" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1202" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-70" value="班级管理界面" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="390" y="1222" width="100" height="478" as="geometry" />
+        </mxCell>
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-71" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="RFupG9pCw3E_9kfrd0Ui-70">
+          <mxGeometry x="45" y="60" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-83" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="RFupG9pCw3E_9kfrd0Ui-70">
+          <mxGeometry x="45" y="153" width="10" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-90" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="RFupG9pCw3E_9kfrd0Ui-70">
+          <mxGeometry x="45" y="258" width="10" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-93" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="RFupG9pCw3E_9kfrd0Ui-70">
+          <mxGeometry x="45" y="338" width="10" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-78" value="8.电/水费充值，输入宿舍号和充值金额" style="endArrow=block;endFill=1;html=1;align=left;verticalAlign=top;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.3824" y="28" relative="1" as="geometry">
+            <mxPoint x="225" y="995" as="sourcePoint" />
+            <mxPoint x="565" y="995" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-79" value="9.返回充值结果" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;curved=0;rounded=0;endFill=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="565.5" y="1027" as="sourcePoint" />
+            <mxPoint x="226" y="1027" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-80" value="1.输入班级号、班级人数，创建班级" style="endArrow=block;endFill=1;html=1;align=left;verticalAlign=top;rounded=0;" edge="1" parent="1" target="RFupG9pCw3E_9kfrd0Ui-70">
+          <mxGeometry x="-0.9333" y="32" relative="1" as="geometry">
+            <mxPoint x="235" y="1292" as="sourcePoint" />
+            <mxPoint x="430" y="1290" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-81" value="2.返回创建结果" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;curved=0;rounded=0;endFill=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="1320" as="sourcePoint" />
+            <mxPoint x="235" y="1320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-82" value="3.添加学生" style="endArrow=block;endFill=1;html=1;align=left;verticalAlign=top;rounded=0;" edge="1" parent="1" source="RFupG9pCw3E_9kfrd0Ui-67">
+          <mxGeometry x="-0.4634" y="30" relative="1" as="geometry">
+            <mxPoint x="240" y="1390" as="sourcePoint" />
+            <mxPoint x="435" y="1390" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-84" value="添加学生界面" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="620" y="1222" width="100" height="420" as="geometry" />
+        </mxCell>
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-85" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="RFupG9pCw3E_9kfrd0Ui-84">
+          <mxGeometry x="45" y="60" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-86" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="RFupG9pCw3E_9kfrd0Ui-84">
+          <mxGeometry x="45" y="153" width="10" height="67" as="geometry" />
+        </mxCell>
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-87" value="4.输入学生学号、姓名、性别、年龄、密码" style="endArrow=block;endFill=1;html=1;align=left;verticalAlign=top;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.9329" y="30" relative="1" as="geometry">
+            <mxPoint x="445" y="1401.5" as="sourcePoint" />
+            <mxPoint x="669.5" y="1401.5" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-88" value="5.添加学生成功" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;curved=0;rounded=0;endFill=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="669.5" y="1424" as="sourcePoint" />
+            <mxPoint x="444" y="1424" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-89" value="6.查找班级，删除学生" style="endArrow=block;endFill=1;html=1;align=left;verticalAlign=top;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.4634" y="30" relative="1" as="geometry">
+            <mxPoint x="235" y="1490" as="sourcePoint" />
+            <mxPoint x="435" y="1490" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-91" value="7.删除学生成功" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;curved=0;rounded=0;endFill=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="1520" as="sourcePoint" />
+            <mxPoint x="235" y="1520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-94" value="8.点击某一班级，显示班级学生信息" style="endArrow=block;endFill=1;html=1;align=left;verticalAlign=top;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.84" y="26" relative="1" as="geometry">
+            <mxPoint x="234" y="1576" as="sourcePoint" />
+            <mxPoint x="434" y="1576" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-95" value="9.返回该班级所有学生信息" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;curved=0;rounded=0;endFill=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="440" y="1600" as="sourcePoint" />
+            <mxPoint x="235" y="1600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-109" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="940" y="1252" width="20" height="228" as="geometry" />
+        </mxCell>
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-110" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="RFupG9pCw3E_9kfrd0Ui-109">
+          <mxGeometry x="5" y="50" width="10" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-111" value="学生" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="920" y="1222" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-112" value="图书借阅界面" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1090" y="1238" width="100" height="242" as="geometry" />
+        </mxCell>
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-113" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="RFupG9pCw3E_9kfrd0Ui-112">
+          <mxGeometry x="45" y="60" width="10" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-122" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="RFupG9pCw3E_9kfrd0Ui-112">
+          <mxGeometry x="45" y="146" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-123" value="2.点击搜索" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" edge="1" target="RFupG9pCw3E_9kfrd0Ui-122" parent="RFupG9pCw3E_9kfrd0Ui-112" source="RFupG9pCw3E_9kfrd0Ui-113">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="122" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="80" y="125" />
+              <mxPoint x="80" y="156" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-115" value="1.选择图书借阅日期" style="endArrow=block;endFill=1;html=1;align=left;verticalAlign=top;rounded=0;" edge="1" parent="1" target="RFupG9pCw3E_9kfrd0Ui-113">
+          <mxGeometry x="-0.5642" y="30" relative="1" as="geometry">
+            <mxPoint x="956" y="1322" as="sourcePoint" />
+            <mxPoint x="1130" y="1322" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-124" value="3.显示借阅的图书信息" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;curved=0;rounded=0;endFill=0;dashed=1;exitX=0;exitY=1;exitDx=0;exitDy=-5;exitPerimeter=0;" edge="1" parent="1" source="RFupG9pCw3E_9kfrd0Ui-122">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1180.5" y="1420" as="sourcePoint" />
+            <mxPoint x="955" y="1420" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
