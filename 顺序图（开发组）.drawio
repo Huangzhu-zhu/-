@@ -1,9 +1,62 @@
-<mxfile host="app.diagrams.net" modified="2023-12-10T13:20:57.480Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" version="22.1.7" etag="_3gR4XnsEmDh9X0jWl85" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-10T13:54:02.515Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="qwCirBal03lsKFPNeFlm" version="22.1.7" type="github">
   <diagram name="第 1 页" id="K3Sk5iGvBDbTyE4i1tNn">
-    <mxGraphModel>
+    <mxGraphModel dx="786" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="160000" pageHeight="160000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-1" value="用户" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="280" y="110" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-3" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="RFupG9pCw3E_9kfrd0Ui-1">
+          <mxGeometry x="45" y="80" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-9" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="RFupG9pCw3E_9kfrd0Ui-1">
+          <mxGeometry x="45" y="140" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-2" value="系统" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="450" y="110" width="100" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-6" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="RFupG9pCw3E_9kfrd0Ui-2">
+          <mxGeometry x="45" y="80" width="10" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-8" value="2.查询数据库，验证数据是否正确" style="html=1;align=left;spacingLeft=2;endArrow=block;rounded=0;edgeStyle=orthogonalEdgeStyle;curved=0;rounded=0;" edge="1" parent="RFupG9pCw3E_9kfrd0Ui-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="55" y="110" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="55" y="100" />
+              <mxPoint x="85" y="100" />
+              <mxPoint x="85" y="150" />
+            </Array>
+            <mxPoint x="55" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-11" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="RFupG9pCw3E_9kfrd0Ui-2">
+          <mxGeometry x="45" y="200" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-12" value="4.数据正确，跳转至主页" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;rounded=0;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.833;exitY=0.847;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="RFupG9pCw3E_9kfrd0Ui-2" source="RFupG9pCw3E_9kfrd0Ui-6" target="RFupG9pCw3E_9kfrd0Ui-11">
+          <mxGeometry y="70" relative="1" as="geometry">
+            <mxPoint x="60" y="170" as="sourcePoint" />
+            <mxPoint x="60.5" y="240" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="165" />
+              <mxPoint x="100" y="240" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-4" value="1.输入学/工号，输入密码" style="endArrow=block;endFill=1;html=1;edgeStyle=orthogonalEdgeStyle;align=left;verticalAlign=top;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.6875" y="30" relative="1" as="geometry">
+            <mxPoint x="335" y="200" as="sourcePoint" />
+            <mxPoint x="495" y="200" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="RFupG9pCw3E_9kfrd0Ui-10" value="3.学/工号或者密码不正确" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;curved=0;rounded=0;" edge="1" parent="1" source="RFupG9pCw3E_9kfrd0Ui-2" target="RFupG9pCw3E_9kfrd0Ui-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="470" y="259.5" as="sourcePoint" />
+            <mxPoint x="340" y="259.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
